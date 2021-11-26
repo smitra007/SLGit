@@ -1,0 +1,25 @@
+[
+  {
+    "content-type": "binary/octet-stream",
+    "date": "Tue, 09 Nov 2021 06:33:39 GMT",
+    "server": "AmazonS3",
+    "content-length": "2542",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-meta-file_path": "ClubCorpTest/DataFoundation-MSS-SIT/loading/DiningRoom_DataFile.csv",
+    "x-amz-meta-create_time": "2021-10-27 12:21:11.911612+00:00",
+    "last-modified": {
+      "_snaptype_datetime": "2021-10-27T12:21:12.000 UTC"
+    },
+    "x-amz-meta-file_id": "b'5e2061a48e4b4a01e21b6ad7'",
+    "x-amz-meta-ttl": "0",
+    "content-disposition": "attachment; filename=\"DiningRoom_DataFile.csv\"",
+    "x-amz-meta-owner": "juhi.vyas@clubcorp.com",
+    "x-amz-meta-expire_time": "2021-10-27 12:21:11.911612+00:00",
+    "etag": "\"f17c21f6d06517c00861ef3a5fe7cc18-1\"",
+    "x-amz-request-id": "N99NREKVBCV25Z5M",
+    "x-amz-meta-mimetype": "text/csv",
+    "x-amz-id-2": "R8eQsE/p9wDDiKLfi8Q8Va0SlPRzYTpRpYCPQX2lI7Jmp2MnVv4h1IKd8R+WcZNlxJq1uxJS3YU=",
+    "accept-ranges": "bytes",
+    "content-location": "sldb:///DiningRoom_DataFile.csv"
+  }
+]
